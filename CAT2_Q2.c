@@ -1,3 +1,8 @@
+/*
+    Name:Simon Muthama Makenzi
+    Reg no:CT101/G/26522/25
+    Description:A c program that requests the user to enter of worked hours in a week and print the gross pay, taxes and net pay
+
 #include <stdio.h>
 
 int main() {
